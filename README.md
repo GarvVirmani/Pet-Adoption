@@ -17,6 +17,11 @@ To get started with this project, simply download or clone the repository to you
 
 - **Eye-catching Styling**: The styling of the webpage has been carefully crafted to be visually appealing, with attention to typography, colors, and layout.
 
+## Screenshot
+![image](https://github.com/GarvVirmani/Pet-Adoption/assets/131982472/86b68abe-9909-46b6-b471-99011b27cffb)
+
+
+
 ## Usage
 
 To use this project, simply open the `index.html` file in a web browser. You'll be greeted with a beautiful landing page inviting you to adopt a pet. Scroll down to view available pets, each presented in its own card with an image and description. Feel free to customize the content and styling to suit your needs!
