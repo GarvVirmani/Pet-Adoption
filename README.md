@@ -4,7 +4,7 @@ Welcome to the Pet Adoption Card Page project! This project is a simple yet attr
 
 ## Getting Started
 
-To get started with this project, simply download or clone the repository to your local machine. You'll find two main files:
+To get started with this project, simply download or clone the repository to your local machine. You will find two main files:
 
 - `index.html` - This is the HTML file containing the structure of the webpage.
 - `style.css` - This is the CSS file containing the styles to make the webpage visually appealing.
